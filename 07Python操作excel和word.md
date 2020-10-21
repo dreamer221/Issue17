@@ -11,7 +11,7 @@ from openpyxl  import Workbook
 1首先查看你的jupyter默认路径, 一般默认C:/Users/Administrator
 注意: 这里的Administrator可能是你自己的用户名, 更换就好
 
-![1603248309419](./imgs/1603248309419.png)
+![1603248309419](./imgs/1603248309419.png) {:width="10px" height="10px"}
 
 
 
@@ -55,7 +55,9 @@ from openpyxl  import Workbook
 
 
 
+#### 问题5 想永久性修改jupyter的默认目录
 
+参考 <https://blog.csdn.net/a857553315/article/details/103285750>
 
 
 
